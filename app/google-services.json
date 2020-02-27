@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "670631055170",
+    "firebase_url": "https://women-safety-16c08.firebaseio.com",
+    "project_id": "women-safety-16c08",
+    "storage_bucket": "women-safety-16c08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670631055170:android:a77d193edb513277a842db",
+        "android_client_info": {
+          "package_name": "com.example.womensafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670631055170-cv6t4heh4fv81sjcv4hussbpnvf37an2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.womensafety",
+            "certificate_hash": "b6b13ea368789a2e7e88a636b9fa598f3a70e767"
+          }
+        },
+        {
+          "client_id": "670631055170-uhdhghm9n5b9vqr84g1eo7q2os8chjkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBetlfZx89QlmuE6o4dY_swComXIiqb1h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670631055170-uhdhghm9n5b9vqr84g1eo7q2os8chjkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670631055170:android:45650bcf8c827ac8a842db",
+        "android_client_info": {
+          "package_name": "com.example.womensafetyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670631055170-53gie2527jkhiurp88m6f5pcudeji1rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.womensafetyapp",
+            "certificate_hash": "b6b13ea368789a2e7e88a636b9fa598f3a70e767"
+          }
+        },
+        {
+          "client_id": "670631055170-uhdhghm9n5b9vqr84g1eo7q2os8chjkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBetlfZx89QlmuE6o4dY_swComXIiqb1h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670631055170-uhdhghm9n5b9vqr84g1eo7q2os8chjkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
